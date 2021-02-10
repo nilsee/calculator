@@ -1,5 +1,6 @@
 import no.dataingenioer.calculator.ExpressionBuilder;
 import no.dataingenioer.calculator.nodes.Calculable;
+import no.dataingenioer.calculator.utils.Scanner;
 import no.dataingenioer.calculator.utils.WhitespaceScanner;
 
 public class Calculator {
