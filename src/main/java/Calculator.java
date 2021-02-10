@@ -12,7 +12,7 @@ public class Calculator {
             System.exit(-1);
         }
 
-        WhitespaceScanner scanner = new WhitespaceScanner();
+        Scanner scanner = new WhitespaceScanner();
 
         String [] tokens =  scanner.scan(args[0]);
 
