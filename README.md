@@ -2,5 +2,6 @@
 Must use reverse polish notation
 
 ```
-java Calculator "2 2 +"
+$>java Calculator "2 2 +"
+4.0
 ```
