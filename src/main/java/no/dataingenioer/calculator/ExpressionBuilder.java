@@ -14,6 +14,11 @@ import no.dataingenioer.calculator.utils.Utils;
 
 public class ExpressionBuilder {
 
+    /**
+     * Builds expression tree to calculate by compiling to java
+     * @param tokens
+     * @return
+     */
     public Calculable build(String [] tokens) {
 
         Stack<Calculable> stack = new Stack<Calculable>();
